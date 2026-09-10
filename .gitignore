@@ -1,0 +1,30 @@
+# Build
+build/
+*.obj
+*.o
+*.exe
+*.dll
+*.bat
+test_img.cpp
+rebuild.bat
+compile_test.bat
+src/img/
+resources/app_preview.png
+
+# Qt
+*.moc
+moc_*.cpp
+ui_*.h
+qrc_*.cpp
+*.pro.user
+
+# IDE
+.vscode/
+.idea/
+*.suo
+*.sln
+*.vcxproj*
+
+# OS
+Thumbs.db
+.DS_Store

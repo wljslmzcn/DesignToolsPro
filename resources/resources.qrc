@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>app.ico</file>
+    </qresource>
+    <qresource prefix="/img">
+        <file alias="wechat.jpg">../img/wechat.jpg</file>
+    </qresource>
+</RCC>
